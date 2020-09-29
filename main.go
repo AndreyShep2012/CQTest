@@ -5,5 +5,5 @@ import "fmt"
 const newConst = "test"
 
 func main() {
-	fmt.Println("hello", newConst, "some text")
+	fmt.Println("hello", newConst, "some text", "asdsadasd")
 }
